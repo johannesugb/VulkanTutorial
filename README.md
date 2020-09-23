@@ -17,8 +17,9 @@ Everything is readily set-up including:
     
 ## Setup
 
-1. Ensure to have a [Vulkan SDK](https://www.lunarg.com/vulkan-sdk/) installed
-2. Ensure that your `VULKAN_SDK` environment variable points to the Vulkan SDK's install location
-3. Checkout this repository
-4. Open [`visual_studio/vulkan_tutorial.sln`]
-5. Build and run
+1. Ensure to have a [Vulkan SDK](https://www.lunarg.com/vulkan-sdk/) installed.
+2. Ensure that your `VULKAN_SDK` environment variable points to the Vulkan SDK's install location.      
+   The custom build step needs to find `glslc.exe` in `$(VULKAN_SDK)\Bin\`
+3. Checkout this repository.
+4. Open [`visual_studio/vulkan_tutorial.sln`].
+5. Build and run.
