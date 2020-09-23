@@ -10,10 +10,9 @@ Everything is readily set-up including:
   * stb_image
   * GLM
   * GLFW
-* Properly configured Visual Studio 2019 solution
-  * Including a Custom Build Step which:
-    * Deploys models and textures to the target directory
-    * Compiles shaders to SPIR-V using `glslc.exe` and deploys them to the target directory
+* Ready-to-use Visual Studio 2019 solution including a Custom Build Step which:
+  * Deploys models and textures to the target directory
+  * Compiles shaders to SPIR-V using `glslc.exe` and deploys them to the target directory
     
 ## Setup
 
