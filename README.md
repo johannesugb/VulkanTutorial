@@ -25,5 +25,5 @@ Everything is readily set-up including:
 2. Ensure that your `VULKAN_SDK` environment variable points to the Vulkan SDK's install location.      
    The custom build step needs to find `glslc.exe` in `$(VULKAN_SDK)\Bin\`
 3. Checkout this repository.
-4. Open [`visual_studio/vulkan_tutorial.sln`].
+4. Open [`visual_studio/vulkan_tutorial.sln`](visual_studio/).
 5. Build and run.
