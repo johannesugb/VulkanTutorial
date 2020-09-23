@@ -1,6 +1,7 @@
 # Vulkan Tutorial set-up for Visual Studio 2019
 
-Source from https://vulkan-tutorial.com                
+Source from https://vulkan-tutorial.com       
+
 The current state of the single implementation file [`source/vulkan_tutorial.com`](source/vulkan_tutorial.com) is set to the state of the ["Loading models"](https://vulkan-tutorial.com/Loading_models) chapter of Alexander Overvoorde's [vulkan-tutorial.com](https://vulkan-tutorial.com).
 
 Everything is readily set-up including:
