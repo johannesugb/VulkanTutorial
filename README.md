@@ -4,6 +4,10 @@ Source from https://vulkan-tutorial.com
 
 The current state of the single implementation file [`source/vulkan_tutorial.com`](source/vulkan_tutorial.com) is set to the state of the ["Loading models"](https://vulkan-tutorial.com/Loading_models) chapter of Alexander Overvoorde's [vulkan-tutorial.com](https://vulkan-tutorial.com).
 
+Running the application will show the following scene: 
+
+![Vulkan Tutorial's "Loading models" scene](drawing_model.png)
+
 Everything is readily set-up including:
 * Source Code 
 * External Dependencies
